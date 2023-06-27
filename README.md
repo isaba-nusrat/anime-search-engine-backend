@@ -25,13 +25,7 @@ Before running the server, ensure you have the following dependencies installed:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install the required dependencies.
-4. Create a `.env` file in the project root and define the following environment variable:
 
-   ```
-   SECRET_KEY=<your_secret_key>
-   ```
-
-   Replace `<your_secret_key>` with your desired secret key for JWT token signing.
 
 ### Usage
 
